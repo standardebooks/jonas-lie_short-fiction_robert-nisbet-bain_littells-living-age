@@ -105,8 +105,23 @@
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/finn-blood.xhtml" id="finn-blood.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/foreword.xhtml" id="foreword.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/isaac-and-theparson-of-brono.xhtml" id="isaac-and-theparson-of-brono.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/its-me.xhtml" id="its-me.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/jack-of-sjoholm-and-the-gan-finn.xhtml" id="jack-of-sjoholm-and-the-gan-finn.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-cormorants-of-andvaer.xhtml" id="the-cormorants-of-andvaer.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-earth-draws.xhtml" id="the-earth-draws.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-fisherman-and-the-draug.xhtml" id="the-fisherman-and-the-draug.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-grey.xhtml" id="the-grey.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-homestead-westward-in-the-blue-mountains.xhtml" id="the-homestead-westward-in-the-blue-mountains.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-huldrefish.xhtml" id="the-huldrefish.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-wind-gnome.xhtml" id="the-wind-gnome.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/tug-of-war.xhtml" id="tug-of-war.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
