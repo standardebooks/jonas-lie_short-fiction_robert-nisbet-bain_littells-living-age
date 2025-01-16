@@ -128,6 +128,21 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="foreword.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
+		<itemref idref="the-grey.xhtml"/>
+		<itemref idref="the-fisherman-and-the-draug.xhtml"/>
+		<itemref idref="jack-of-sjoholm-and-the-gan-finn.xhtml"/>
+		<itemref idref="tug-of-war.xhtml"/>
+		<itemref idref="the-earth-draws.xhtml"/>
+		<itemref idref="the-cormorants-of-andvaer.xhtml"/>
+		<itemref idref="isaac-and-theparson-of-brono.xhtml"/>
+		<itemref idref="the-wind-gnome.xhtml"/>
+		<itemref idref="the-huldrefish.xhtml"/>
+		<itemref idref="finn-blood.xhtml"/>
+		<itemref idref="the-homestead-westward-in-the-blue-mountains.xhtml"/>
+		<itemref idref="its-me.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
