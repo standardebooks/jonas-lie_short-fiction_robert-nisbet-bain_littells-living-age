@@ -36,9 +36,11 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of short fiction by Norwegian author Jonas Lie, ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/jonas-lie"&gt;Jonas Lie&lt;/a&gt; was a Norwegian author of fiction in both long and short forms. His works often seek to portray life and customs of Norwegian society, like the economic importance of fishing and supernatural beings from local folklore.&lt;/p&gt;
+			&lt;p&gt;His stories are set in the Norwegian countryside and feature primarely peasants as the characters. Both Christianity and Nordic folklore are present in the tales, with spirits and magic having a significant role in the plot.&lt;/p&gt;
+			&lt;p&gt;This edition of &lt;i&gt;Short Fiction&lt;/i&gt; contains all of the known Public Domain short stories translated into English, which were mainly published in a collection called &lt;i&gt;Weird Tales from Northern Seas&lt;/i&gt; in 1893.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- Weird Tales from Northern Seas -->
