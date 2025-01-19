@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="foreword.xhtml">
+		<ignore>
+			<code>y-013</code>
+			<reason>Two of the titles mentioned has quotation marks as part of their title, and thus the comma should not be inside said quotations. The comma after "Tug of War" is still inside the outer quotation marks, however.</reason>
+		</ignore>
+	</file>
+	<file path="jack-of-sjoholm-and-the-gan-finn.xhtml">
+		<ignore>
+			<code>t-020</code>
+			<reason>The endnote link is before the hyphen because it refers tolely to the first part of the compund word.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
