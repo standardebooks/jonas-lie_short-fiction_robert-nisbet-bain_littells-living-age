@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jonas-lie/short-fiction/robert-nisbet-bain_littells-living-age</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-01-21T21:43:40Z</dc:date>
+		<meta property="dcterms:modified">2025-01-21T21:43:40Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,9 +38,9 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of short fiction by Norwegian author Jonas Lie, ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/jonas-lie"&gt;Jonas Lie&lt;/a&gt; was a Norwegian author of fiction in both long and short forms. His works often seek to portray life and customs of Norwegian society, like the economic importance of fishing and supernatural beings from local folklore.&lt;/p&gt;
-			&lt;p&gt;His stories are set in the Norwegian countryside and feature primarily peasants as the characters. Both Christianity and Nordic folklore are present in the tales, with spirits and magic having a significant role in the plot.&lt;/p&gt;
-			&lt;p&gt;This edition of &lt;i&gt;Short Fiction&lt;/i&gt; contains all of the known Public Domain short stories translated into English, which were mainly published in a collection called &lt;i&gt;Weird Tales from Northern Seas&lt;/i&gt; in 1893.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/jonas-lie"&gt;Jonas Lie&lt;/a&gt; was a Norwegian author of both long and short fiction. His works often seek to portray life and customs of Norwegian society, like the economic importance of fishing and supernatural beings from local folklore.&lt;/p&gt;
+			&lt;p&gt;His stories are set in the Norwegian countryside and feature primarily peasants. Both Christianity and Nordic folklore are present in the tales, with spirits and magic having a significant role in the plots.&lt;/p&gt;
+			&lt;p&gt;This edition of &lt;i&gt;Short Fiction&lt;/i&gt; contains all of his short stories known to be translated into English, which were mostly published in a collection called &lt;i&gt;Weird Tales from Northern Seas&lt;/i&gt; in 1893.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- Weird Tales from Northern Seas -->
@@ -49,8 +49,8 @@
 		<!-- The Grey -->
 		<dc:source>https://en.wikisource.org/wiki/Littell%27s_Living_Age/Volume_142/Issue_1835/The_Grey</dc:source>
 		<dc:source>https://archive.org/details/sim_living-age_1879-08-16_142_1835</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">40036</meta>
+		<meta property="se:reading-ease.flesch">74.12</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jonas-lie_short-fiction_robert-nisbet-bain_littells-living-age</meta>
 		<dc:creator id="author">Jonas Lie</dc:creator>
 		<meta property="file-as" refines="#author">Lie, Jonas</meta>
@@ -98,6 +98,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
