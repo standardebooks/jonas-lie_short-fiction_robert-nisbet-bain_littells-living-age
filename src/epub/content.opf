@@ -51,12 +51,11 @@
 		<dc:source>https://archive.org/details/sim_living-age_1879-08-16_142_1835</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Jonas_Lie_(writer)#Works</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jonas-lie_short-fiction_robert-nisbet-bain_littells-living-age</meta>
 		<dc:creator id="author">Jonas Lie</dc:creator>
 		<meta property="file-as" refines="#author">Lie, Jonas</meta>
 		<meta property="se:name.person.full-name" refines="#author">Jonas Lauritz Idemil Lie</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jonas_Lie</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jonas_Lie_(writer)</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50050389</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator-1">Robert Nisbet Bain</dc:contributor>
@@ -67,7 +66,7 @@
 		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
 		<dc:contributor id="translator-2">Littell’s Living Age</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Age, Littell’s Living</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Littell%27s_Living_Age</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Eliakim_Littell</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/n85368720</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Eyolf Soot</dc:contributor>
