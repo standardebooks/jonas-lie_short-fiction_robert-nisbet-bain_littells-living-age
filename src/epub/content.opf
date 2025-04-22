@@ -36,6 +36,7 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of short fiction by Norwegian author Jonas Lie, ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/jonas-lie"&gt;Jonas Lie&lt;/a&gt; was a Norwegian author of both long and short fiction. His works often seek to portray life and customs of Norwegian society, like the economic importance of fishing and supernatural beings from local folklore.&lt;/p&gt;
