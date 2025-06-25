@@ -62,13 +62,13 @@
 		<dc:contributor id="translator-1">Robert Nisbet Bain</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Bain, Robert Nisbet</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Robert_Nisbet_Bain</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/n50021153</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n50021153</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
 		<dc:contributor id="translator-2">Littell’s Living Age</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Age, Littell’s Living</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Eliakim_Littell</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/n85368720</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n85368720</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Eyolf Soot</dc:contributor>
 		<meta property="file-as" refines="#artist">Soot, Eyolf</meta>
